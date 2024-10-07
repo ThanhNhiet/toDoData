@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Get up",
+      "complete": True
+    },
+    {
+      "id": 2,
+      "name": "Brush teeth",
+      "complete": True
+    },
+    {
+      "id": 3,
+      "name": "Cooking",
+      "complete": True
+    },
+    {
+      "id": 4,
+      "name": "Have breakfast"
+      "complete": False
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
