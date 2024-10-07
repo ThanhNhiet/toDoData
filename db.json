@@ -2,16 +2,18 @@
   "posts": [
     { 
       "id": 1, 
-      "title": "Post 1",
+      "title": "Cooking",
       "complete": true
     },
     { 
       "id": 2, 
-      "title": "Post 2" 
+      "title": "Have breafast",
+      "complete": false
     },
     { 
       "id": 3, 
-      "title": "Post 3" 
+      "title": "do ex",
+      "complete": true
     }
   ],
   "profile": {
