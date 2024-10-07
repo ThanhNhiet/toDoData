@@ -3,17 +3,17 @@
     {
       "id": 1, 
       "title": "Cooking",
-      "complete": True
+      "complete": true
     },
     {
       "id": 2, 
       "title": "Have breakfast",
-      "complete": True
+      "complete": true
     },
     {
       "id": 3, 
       "title": "Do ex",
-      "complete": True
+      "complete": true
     }
   ],
   "comments": [
