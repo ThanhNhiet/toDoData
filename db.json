@@ -2,18 +2,15 @@
   "posts": [
     {
       "id": 1, 
-      "title": "Cooking",
-      "complete": true
+      "title": "Cooking"
     },
     {
       "id": 2, 
-      "title": "Have breakfast",
-      "complete": true
+      "title": "Have breakfast"
     },
     {
       "id": 3, 
-      "title": "Do ex",
-      "complete": true
+      "title": "Do ex"
     }
   ],
   "comments": [
